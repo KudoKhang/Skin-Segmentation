@@ -1,0 +1,9 @@
+weights/
+wandb/
+datasets/
+venv/
+3body.jpg
+5body.jpg
+t.py
+yolov5s.pt
+dathao_result.mp4
