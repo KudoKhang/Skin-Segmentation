@@ -7,3 +7,5 @@ venv/
 t.py
 yolov5s.pt
 dathao_result.mp4
+.DS_Store
+idea/
